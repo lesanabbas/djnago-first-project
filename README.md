@@ -2,6 +2,9 @@
 
 This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
 
+click to see Demo: 
+[https://djnago-rest.lesanabbas.repl.co](https://djnago-rest.lesanabbas.repl.co)
+
 ## Running the repl
 
 1. Setup a new secret environment variable (the lock icon) where the key is `SECRET_KEY` and the value is
